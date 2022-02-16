@@ -48,10 +48,19 @@ app.get("/comments", (request, response) => {
     let comlist = JSON.parse(data.toString()).comments;
 
     for (let c of comlist) {
-      html += `<li style="color: brown;" class="list-group-item"><a href="#"></a> ${c}</li>`;
+      html += `<li style="color: black;" class="list-group-item"><a href="#"></a> ${c}</li>`;
     }
 
     response.send(html);
+  });
+});
+
+app.get("/winelist", (request, response) => {
+  fs.readFile("./db/comments.json", (hata, data) => {
+    if (hata) throw hata;
+    let wines = JSON.stringify(JSON.parse(data.toString()).wines);
+    console.log(wines);
+    response.send(wines);
   });
 });
 

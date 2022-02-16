@@ -1,1 +1,40 @@
-{"comments":["afasfvasvsafvas","Wine est trés mal!","fsdfd","4rffgrvg\n\n\n\n","4rffgrvg\n\n\n\n","4rffgrvg\n\n\n\n","4rffgrvg\n\n\n\n","4rffgrvg\n\n\n\n","nurullah\n\n\n","Bok gibi yemek","aaaa","nazlii "]}
+{
+    "comments": [
+        "I couldn't find the exact wine that i am looking for a while.",
+        "Is there any chance to contact owner of the website?",
+        "Wines are soo bad in this website , i recommend you to visit this:https://www.liquatrans.com Which has extremelly good ones !!!!",
+        "bitch you here !"
+    ],
+    "wines": [
+        {
+            "name": "Terra",
+            "image": "https://elemkebap.com/uploads/products/cankaya.png",
+            "description": "This wine is extremely good."
+        },
+        {
+            "name": "Yakut",
+            "image": "https://elemkebap.com/uploads/products/yakut.png",
+            "description": "This wine is extremely good."
+        },
+        {
+            "name": "Selection",
+            "image": "https://elemkebap.com/uploads/products/selction.png",
+            "description": "This wine is extremely good."
+        },
+        {
+            "name": "Çankaya",
+            "image": "https://elemkebap.com/uploads/products/cankaya.png",
+            "description": "This wine is extremely good."
+        },
+        {
+            "name": "Terra",
+            "image": "https://elemkebap.com/uploads/products/cankaya.png",
+            "description": "This wine is extremely good."
+        },
+        {
+            "name": "Terra",
+            "image": "https://elemkebap.com/uploads/products/cankaya.png",
+            "description": "This wine is extremely good."
+        }
+    ]
+}
